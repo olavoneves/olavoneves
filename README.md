@@ -64,7 +64,7 @@ Além de **Java Backend**, também sou Desenvolvedor **JavaScript Frontend**, co
 🔹 Consulta de veículos via terminal  
 🔹 Prática de Records e Collections  
 
-### 2️⃣ [Buscador de CEP](https://github.com/olavoneves/buscadorCEP)
+### 2️⃣ [Buscador de CEP]([https://github.com/olavoneves/buscadorCEP](https://github.com/olavoneves/buscadorDeCep.git))
 📌 **Java | POO | API**  
 🔹 Buscar endereços apenas com o CEP  
 🔹 Aplicação de Records e Serviços da API viaCEP
