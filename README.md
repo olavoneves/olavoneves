@@ -59,7 +59,7 @@ Além de **Java Backend**, também sou Desenvolvedor **JavaScript Frontend**, co
 
 ## 🔥 Projetos Recentes
 
-### 1️⃣ [Tabela FIPE CLI](https://github.com/olavoneves/tabela-fipe-cli)
+### 1️⃣ [Tabela FIPE CLI]([https://github.com/olavoneves/tabela-fipe-cli](https://github.com/olavoneves/Projeto-Tabela_Fipe.git))
 📌 **Java | Spring Boot | Console**  
 🔹 Consulta de veículos via terminal  
 🔹 Prática de Records e Collections  
