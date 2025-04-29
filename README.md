@@ -1,4 +1,4 @@
-# *🚀 Olavo Neves - Desenvolvedor Junior em Formação*  
+<h1 align="center">🚀 Olavo Neves -<br>Desenvolvedor Junior em Formação</h1>
 
 <div align="center">
   <h3>
@@ -14,48 +14,68 @@
   </p>
 </div> 
 
-## 📌 Sobre Mim
-Desenvolvedor **Java Backend** em formação, focado em dominar **Spring Boot, programação orientada a objetos e boas práticas de desenvolvimento**. Atualmente construindo projetos para solidificar meu conhecimento em:
+###
 
-🔹 **Fundamentos do Java**  
-🔹 **Spring Boot (API REST)**  
-🔹 **Clean Code e Design Patterns**  
-🔹 **Versionamento com Git/GitHub** <br>
+<h2 align="left">📌 About Me</h2>
 
-Além de **Java Backend**, também sou Desenvolvedor **JavaScript Frontend**, com forte dominio em **HTML e CSS** puro, focado em dominar **ES6+, Node.js e terminal**. Atualmente construindo projetos para solidificar meu conhecimento em:
+###
 
-🔹 **Fundamentos do JavaScript**  
-🔹 **Implementação CRUD**  
-🔹 **Requisições HTTP**  
-🔹 **Versionamento com Git/GitHub**
+<p align="left">Desenvolvedor Java Backend em formação, utilizando frameworks como Spring Boot, programação orientada a objetos e boas práticas de desenvolvimento. Atualmente construindo projetos para solidificar meu conhecimento em:<br><br>🔹 POO<br>🔹 Spring Boot (API REST)<br>🔹 Clean Code e Design Patterns<br>🔹 Versionamento com Git/GitHub<br><br>Além de Java Backend, também sou Desenvolvedor JavaScript Frontend, com forte dominio em HTML e CSS puro, focado em dominar ES6+, React e Node.js terminal. Atualmente construindo projetos para solidificar meu conhecimento em:<br><br>🔹 Fundamentos do JavaScript<br>🔹 Implementação CRUD<br>🔹 Requisições HTTP<br>🔹 Versionamento com Git/GitHub</p>
 
+###
 
-## **🛠️ Stack Principal**  
+<h2 align="left">🛠️ Techs</h2>
 
-### **Backend (Java)**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+###
 
-- **Linguagens**: Java (100% foco atual)  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+- **Linguagens**: Java (foco atual)  
 - **Frameworks**: Spring Boot (em aprendizado)  
-- **Conceitos**: POO, Collections, Streams, Lambdas  
-- **Ferramentas**: Maven, IntelliJ IDEA  
+- **Conceitos**: POO, Collections, Streams, Lambdas, CRUD  
+- **Ferramentas**: Maven, IntelliJ IDEA, Postman, Postgres
 
-### **Frontend Básico**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+###
 
-- **Fundamentos Web**: HTML semântico, CSS Flexbox/Grid  
-- **JavaScript**: DOM manipulation, ES6+ basics  
-- **Próximos passos**: React, TypeScript  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+</div>
 
-## 📊 GitHub Stats
+###
+
+- **Fundamentos Web**: HTML - Semântico, CSS - Responsivo 
+- **JavaScript**: DOM Manipulation
+- **Próximos passos**: React, TypeScript, Node.js  
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
 
 <div align="center">
-
-![Olavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olavoneves&show_icons=true&theme=radical&hide_border=true&hide=stars,issues)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olavoneves&layout=compact&theme=radical&hide_border=true&exclude_repo=other-repo)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olavoneves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=olavoneves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olavoneves&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=false&hide_title=false&line=#9745F5&title_color=#9745F5&color=#9745F5&bg_color=#000000&area_color=#000000&point=#9745F5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/olavoneves/olavoneves/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
 
 ## 🔥 Projetos Recentes
 
@@ -69,7 +89,7 @@ Além de **Java Backend**, também sou Desenvolvedor **JavaScript Frontend**, co
 🔹 Buscar endereços apenas com o CEP  
 🔹 Aplicação de Records e Serviços da API viaCEP
 
-## **📬 Contato**  
+<h2 align="left">📬 Contato</h2>
 
 <div align="left">  
 
@@ -82,17 +102,19 @@ Além de **Java Backend**, também sou Desenvolvedor **JavaScript Frontend**, co
 ## 🌱 Objetivos Atuais
 
 - ✔️ **Dominar Spring Boot**  
-- ✔️ **Aprender PostgreSQL**  
+- ✔️ **Dominar PostgreSQL**  
 - ✔️ **Evoluir para React**  
 
-⭐ **Aberto para oportunidades júnior/trainee!**  
+###
+
+⭐ **Aberto para oportunidades estágio/júnior/trainee!**  
 
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=olavoneves&color=blueviolet&style=flat-square&label=Profile+Views)
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=olavoneves.olavoneves&left_color=darkslategrey&right_color=dodgerblue&left_text=Profile%20Views"  />
 </div>
 
----
+###
 
-**Feito com ❤️ por Olavo Neves**   
+<h4 align="center">Feito por Olavo Neves</h4>
+
+###
