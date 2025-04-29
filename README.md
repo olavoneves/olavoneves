@@ -71,12 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/olavoneves/olavoneves/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-
 ## 🔥 Projetos Recentes
 
 ### 1️⃣ [Tabela FIPE CLI]([https://github.com/olavoneves/tabela-fipe-cli](https://github.com/olavoneves/Projeto-Tabela_Fipe.git))
