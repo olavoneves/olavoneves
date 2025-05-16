@@ -80,11 +80,10 @@ Recentemente finalizei projetos integrando <strong>APIs externas (OMDB)</strong>
 
 <h2 align="left">📬 Contato</h2>
 
-<div align="left">  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-neves-48630b2b3/)  
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olavo9neves@gmail.com)  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/olavoneves)
-</div>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-neves-48630b2b3/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olavo9neves@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/olavoneves_)
+
 
 ## 🎯 Objetivos 2024
 
