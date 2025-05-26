@@ -76,7 +76,11 @@ Recentemente finalizei projetos integrando <strong>APIs externas (OMDB)</strong>
 ### 3️⃣ [Buscador de CEP](https://github.com/olavoneves/buscadorDeCep)
 📌 **Java | API REST | POO**  
 🔹 Integração com ViaCEP API  
-🔹 Implementação de clean code e tratamento de erros  
+🔹 Implementação de clean code e tratamento de erros 
+
+<img src="https://raw.githubusercontent.com/olavoneves/olavoneves/output/snake.svg" alt="Snake animation" />
+
+###
 
 <h2 align="left">📬 Contato</h2>
 
