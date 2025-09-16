@@ -89,7 +89,7 @@ Recentemente finalizei projetos integrando <strong>APIs externas (OMDB)</strong>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/olavoneves_)
 
 
-## 🎯 Objetivos 2024
+## 🎯 Objetivos 2025
 
 - ✅ **Spring Boot Avançado**: JWT, OAuth2, Cache  
 - ✅ **Cloud Computing**: AWS/Heroku deployment  
