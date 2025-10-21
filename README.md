@@ -3,103 +3,115 @@
 <div align="center">
   <h3>
     <img src="https://emojis.slackmojis.com/emojis/images/1643514076/5919/hot_java.gif?1643514076" width="30"/>
-    Java | Spring Boot | API REST
+    Java | Spring Boot | React | PostgreSQL
     <img src="https://emojis.slackmojis.com/emojis/images/1643514076/5919/hot_java.gif?1643514076" width="30"/>
   </h3>
   
   <p>
-    ▸ 🔍 <em>Foco atual</em>: <strong>Spring Boot & React</strong><br>
-    ▸ 🛠️ <em>Expertise</em>: API REST | Spring Data JPA | PostgreSQL<br>
-    ▸ 🌱 <em>Aprendendo</em>: JWT | OAuth2 | AWS/Heroku
+    🔍 <em>Foco atual:</em> <strong>Arquitetura de Microsserviços, Cloud e Integrações Full Stack</strong><br>
+    🛠️ <em>Expertise:</em> APIs REST | Spring Data JPA | React | PostgreSQL<br>
+    🌱 <em>Em evolução:</em> Docker | CI/CD | AWS | OAuth2 | Kafka
   </p>
 </div>
 
-###
+---
 
-<h2 align="left">📌 Sobre Mim</h2>
+## 📌 Sobre Mim
 
-###
+Sou **Desenvolvedor Full Stack Java**, com formação em **Análise e Desenvolvimento de Sistemas (FIAP)** e especialização prática em **Java Web pela Alura**.  
+Apaixonado por criar soluções **robustas, limpas e escaláveis**, atuo com foco em **backend com Spring Boot** e **frontend com React**.
 
-<p align="left">Desenvolvedor Full Stack com formação em <strong>Java Web pela Alura</strong>, especializado em:<br><br>
-🔹 <strong>Back-end Java</strong>: Spring Boot, JPA/Hibernate, DTOs, Clean Code<br>
-🔹 <strong>APIs RESTful</strong>: Design de endpoints, tratamento de exceções, CORS<br>
-🔹 <strong>Banco de Dados</strong>: PostgreSQL, consultas otimizadas com @Query<br>
-🔹 <strong>Front-end</strong>: JavaScript (ES6+), HTML5 semântico, CSS3 responsivo<br><br>
-Recentemente finalizei projetos integrando <strong>APIs externas (OMDB)</strong> e desenvolvendo soluções full stack com persistência em PostgreSQL e front-end dinâmico.</p>
+Tenho experiência no desenvolvimento de **APIs REST**, **integração com bancos relacionais e não relacionais**, e **boas práticas de código**, incluindo **testes unitários**, **arquitetura em camadas** e **integração contínua (CI/CD)**.  
+Meu diferencial é unir **curiosidade técnica e mentalidade de dono** — não apenas escrevo código, mas penso em **como ele melhora o produto e o negócio**.
 
-###
+---
 
-<h2 align="left">🛠️ Tech Stack</h2>
+## 🧠 Habilidades Técnicas
 
-###
+- **Linguagens:** Java 17 | SQL | JavaScript (ES6+) | Python (automação)
+- **Frameworks:** Spring Boot 3 | Spring Data JPA | Spring Security | Hibernate | React | Node-RED  
+- **Banco de Dados:** PostgreSQL | MySQL | Oracle | MongoDB (básico)
+- **Testes e Qualidade:** JUnit | Mockito | Postman | SonarQube (noções)
+- **DevOps:** Git/GitHub | Jenkins | Docker (básico) | CI/CD Pipelines
+- **Arquitetura:** Microsserviços | SOLID | Clean Code | Design Patterns
+- **Mensageria e Integração:** Kafka | Apache Camel (noções)
+- **Cloud:** AWS | Azure (noções)
+- **Metodologias:** Scrum | Kanban | Jira | Trello
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🧩 [HERA – Acompanhamento Hospitalar Inteligente](https://github.com/olavoneves)
+📌 **Java | React | Python | SQL Developer**  
+🔹 API para automação de acompanhamento de pacientes no Hospital das Clínicas  
+🔹 Integração com **WhatsApp**, reduzindo absenteísmo em até **10%** em simulações  
+🔹 Backend em **Java puro**, frontend **React**, automações em **Python**
+
+---
+
+### 💰 [Genesis Contábil](https://github.com/olavoneves/genesis-contabil)
+📌 **Spring Boot | PostgreSQL | React | Next.js**  
+🔹 Sistema de **controle financeiro pessoal** com autenticação e relatórios  
+🔹 Arquitetura limpa e escalável com **Spring Data JPA + PostgreSQL**  
+🔹 Frontend dinâmico em **React/Next.js**
+
+---
+
+### 🥛 [BIOGURT – Projeto Acadêmico](https://biogurt.vercel.app)
+📌 **Spring Boot | JavaScript | PostgreSQL**  
+🔹 Plataforma de divulgação do iogurte de grão-de-bico (parceria com Nutrição Santa Marcelina)  
+🔹 Integração de **Spring Mail** para envio automático de formulários via e-mail  
+🔹 Publicado em produção: **biogurt.vercel.app**
+
+---
+
+### 🌍 [GREEVO – Defesa Civil e ONGs](https://github.com/olavoneves)
+📌 **Java | JavaScript | Node-RED | IBM Cloud**  
+🔹 Cadastro e gestão de abrigos e estoques em situações emergenciais  
+🔹 Chatbot inteligente via **Node-RED + IBM Cloud**  
+🔹 Redução de até **30% no tempo de cadastro** em simulações de teste
+
+---
+
+## 🛠️ Tech Stack Visual
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate" height="40" alt="core stack" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git" height="40" alt="web tools" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate,react,python,docker,git" height="40" />
 </div>
 
-###
+---
 
-- **Back-end**: Java 17 | Spring Boot 3 | Spring Data JPA | Maven
-- **Front-end**: JavaScript (ES6+) | DOM Manipulation | Fetch API
-- **Database**: PostgreSQL | Otimização de queries | ORM
-- **DevOps**: Git/GitHub | Postman | IntelliJ IDEA
-
-###
-
-<h2 align="left">📊 GitHub Analytics</h2>
-
-###
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olavoneves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=olavoneves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olavoneves&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=false&hide_title=false&line=#9745F5&title_color=#9745F5&color=#9745F5&bg_color=#000000&area_color=#000000&point=#9745F5" height="300" alt="activity-graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=olavoneves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olavoneves&layout=compact&theme=github_dark" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olavoneves&theme=github-dark-dimmed&area=true&radius=16" height="300" />
 </div>
 
-###
-
-## 🚀 Projetos Destaque
-
-### 1️⃣ [ScreenMatch - Citações de Filmes](https://github.com/olavoneves/screenmatch-citacoes)
-📌 **Spring Boot | PostgreSQL | REST API**  
-🔹 API REST com Spring Data JPA e DTOs  
-🔹 Integração com front-end dinâmico  
-🔹 Consumo da API OMDB para dados de filmes  
-
-### 2️⃣ [Tabela FIPE CLI](https://github.com/olavoneves/Projeto-Tabela_Fipe)
-📌 **Java | Collections | Streams**  
-🔹 Aplicação console para consulta de veículos  
-🔹 Prática de Records e manipulação de collections  
-
-### 3️⃣ [Buscador de CEP](https://github.com/olavoneves/buscadorDeCep)
-📌 **Java | API REST | POO**  
-🔹 Integração com ViaCEP API  
-🔹 Implementação de clean code e tratamento de erros 
-
-<img src="https://raw.githubusercontent.com/olavoneves/olavoneves/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">📬 Contato</h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-neves-48630b2b3/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olavo9neves@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/olavoneves_)
-
+---
 
 ## 🎯 Objetivos 2025
 
-- ✅ **Spring Boot Avançado**: JWT, OAuth2, Cache  
-- ✅ **Cloud Computing**: AWS/Heroku deployment  
-- ✅ **Front-end Moderno**: React + TypeScript  
-- ✅ **Arquitetura**: Microsserviços, Design Patterns  
+- ✅ Aprofundar em **Spring Security (JWT, OAuth2)**  
+- ✅ Dominar **AWS e containers com Docker/Kubernetes**  
+- ✅ Criar **microsserviços escaláveis** com mensageria e autenticação distribuída  
+- ✅ Lançar novo **portfólio com React + Next.js + animações modernas**
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olavoneves)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olavo9neves@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511955502307)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/olavoneves_)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=olavoneves.olavoneves&left_color=darkslategrey&right_color=dodgerblue&left_text=Profile%20Views" />
 </div>
 
-###
+---
 
-<h4 align="center">"O código é poesia lógica" - Olavo Neves</h4>
+<h4 align="center">"O código é poesia lógica — e cada commit é um verso de evolução." – Olavo Neves</h4>
