@@ -42,7 +42,7 @@ Meu diferencial é unir **curiosidade técnica e mentalidade de dono** — não 
 
 ## 🚀 Projetos em Destaque
 
-### 🧩 [HERA – Acompanhamento Hospitalar Inteligente](https://github.com/olavoneves)
+### 🧩 [HERA – Acompanhamento Hospitalar Inteligente]([https://github.com/olavoneves](https://github.com/olavoneves/hera-api_v1))
 📌 **Java | React | Python | SQL Developer**  
 🔹 API para automação de acompanhamento de pacientes no Hospital das Clínicas  
 🔹 Integração com **WhatsApp**, reduzindo absenteísmo em até **10%** em simulações  
