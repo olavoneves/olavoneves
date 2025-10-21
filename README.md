@@ -66,7 +66,7 @@ Meu diferencial é unir **curiosidade técnica e mentalidade de dono** — não 
 
 ---
 
-### 🌍 [GREEVO – Defesa Civil e ONGs](https://github.com/olavoneves)
+### 🌍 [GREEVO – Defesa Civil e ONGs]([https://github.com/olavoneves](https://github.com/olavoneves/Greevo))
 📌 **Java | JavaScript | Node-RED | IBM Cloud**  
 🔹 Cadastro e gestão de abrigos e estoques em situações emergenciais  
 🔹 Chatbot inteligente via **Node-RED + IBM Cloud**  
