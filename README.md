@@ -1,117 +1,135 @@
-<h1 align="center">🚀 Olavo Neves<br>Desenvolvedor Full Stack Java</h1>
+<div align="center">
+  <img src="./assets/onvs-terminal.svg" width="100%" alt="ONVS — terminal de mercado com as estatísticas reais do GitHub de Olavo Neves: candles semanais, volume de commits, carteira de linguagens e indicadores de atividade.">
+</div>
 
 <div align="center">
-  <h3>
-    <img src="https://emojis.slackmojis.com/emojis/images/1643514076/5919/hot_java.gif?1643514076" width="30"/>
-    Java | Spring Boot | React | PostgreSQL
-    <img src="https://emojis.slackmojis.com/emojis/images/1643514076/5919/hot_java.gif?1643514076" width="30"/>
-  </h3>
-  
-  <p>
-    🔍 <em>Foco atual:</em> <strong>Arquitetura de Microsserviços, Cloud e Integrações Full Stack</strong><br>
-    🛠️ <em>Expertise:</em> APIs REST | Spring Data JPA | React | PostgreSQL<br>
-    🌱 <em>Em evolução:</em> Docker | CI/CD | AWS | OAuth2 | Kafka
-  </p>
+  <sub>
+    O painel acima <strong>não é uma imagem estática</strong>. Ele é redesenhado 3x por dia por um
+    workflow do GitHub Actions que lê a minha própria atividade e a plota como um ativo de bolsa.
+    <a href="#-como-esse-painel-funciona">Como funciona ↓</a>
+  </sub>
 </div>
 
 ---
 
-## 📌 Sobre Mim
+## 🏦 Tese
 
-Sou **Desenvolvedor Full Stack Java**, com formação em **Análise e Desenvolvimento de Sistemas (FIAP)** e especialização prática em **Java Web pela Alura**.  
-Apaixonado por criar soluções **robustas, limpas e escaláveis**, atuo com foco em **backend com Spring Boot** e **frontend com React**.
+Sou **Olavo Neves**, desenvolvedor **Full Stack Java** formado em Análise e Desenvolvimento de Sistemas pela **FIAP**, com especialização prática em Java Web pela **Alura**.
 
-Tenho experiência no desenvolvimento de **APIs REST**, **integração com bancos relacionais e não relacionais**, e **boas práticas de código**, incluindo **testes unitários**, **arquitetura em camadas** e **integração contínua (CI/CD)**.  
-Meu diferencial é unir **curiosidade técnica e mentalidade de dono** — não apenas escrevo código, mas penso em **como ele melhora o produto e o negócio**.
+Trabalho com **backend em Spring Boot** e **frontend em React**, construindo APIs REST, integrações com bancos relacionais e não relacionais, e código que sobrevive ao segundo ano de produção — testes, arquitetura em camadas e CI/CD.
 
----
-
-## 🧠 Habilidades Técnicas
-
-- **Linguagens:** Java 17 | SQL | JavaScript (ES6+) | Python (automação)
-- **Frameworks:** Spring Boot 3 | Spring Data JPA | Spring Security | Hibernate | React | Node-RED  
-- **Banco de Dados:** PostgreSQL | MySQL | Oracle | MongoDB (básico)
-- **Testes e Qualidade:** JUnit | Mockito | Postman | SonarQube (noções)
-- **DevOps:** Git/GitHub | Jenkins | Docker (básico) | CI/CD Pipelines
-- **Arquitetura:** Microsserviços | SOLID | Clean Code | Design Patterns
-- **Mensageria e Integração:** Kafka | Apache Camel (noções)
-- **Cloud:** AWS | Azure (noções)
-- **Metodologias:** Scrum | Kanban | Jira | Trello
+Venho do **mercado financeiro**, e é pra lá que essa stack está apontada. O meu diferencial não é escrever código: é **entender o que aquele código faz com o número no fim da planilha**.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📈 Carteira de projetos
 
-### 🧩 [HERA – Acompanhamento Hospitalar Inteligente]([https://github.com/olavoneves](https://github.com/olavoneves/hera-api_v1))
-📌 **Java | React | Python | SQL Developer**  
-🔹 API para automação de acompanhamento de pacientes no Hospital das Clínicas  
-🔹 Integração com **WhatsApp**, reduzindo absenteísmo em até **10%** em simulações  
-🔹 Backend em **Java puro**, frontend **React**, automações em **Python**
+> A carteira abaixo é majoritariamente **posição acadêmica** — challenges da FIAP e projetos de curso, montados para aprender arquitetura, não para escalar base de usuário. Estão aqui pelas decisões técnicas dentro deles. A posição que realmente importa está logo abaixo, em [construção](#-posição-em-construção).
 
----
-
-### 💰 [Genesis Contábil](https://github.com/olavoneves/genesis-contabil)
-📌 **Spring Boot | PostgreSQL | React | Next.js**  
-🔹 Sistema de **controle financeiro pessoal** com autenticação e relatórios  
-🔹 Arquitetura limpa e escalável com **Spring Data JPA + PostgreSQL**  
-🔹 Frontend dinâmico em **React/Next.js**
+| Ativo | Classe | Setor | Stack | Tese |
+| :--- | :--- | :--- | :--- | :--- |
+| **[HERA](https://github.com/olavoneves/hera-api_v1)** | Acadêmico | Saúde | `Java` `React` `Python` `SQL` | Automação do acompanhamento de pacientes no Hospital das Clínicas, com integração via WhatsApp. Reduziu absenteísmo em até **10%** em simulação. |
+| **[Clyvo Vet](https://github.com/olavoneves/clyvo-vet_api-java)** | Acadêmico | Pet / Delivery | `Java` `Spring` `.NET` | Mesma API modelada em **dois ecossistemas** (Java e C#) — exercício deliberado de comparar arquitetura, não linguagem. |
+| **[GeoSat](https://github.com/olavoneves/geosat-java)** | Acadêmico | Geoespacial | `Java` `.NET` | Estrutura de serviços para dados de satélite, também em dupla implementação. |
+| **[GREEVO](https://github.com/olavoneves/Greevo)** | Acadêmico | Defesa Civil | `Java` `Node-RED` `IBM Cloud` | Gestão de abrigos e estoques em emergências, com chatbot. **-30%** no tempo de cadastro em teste. |
+| **[BIOGURT](https://biogurt.vercel.app)** | Acadêmico | Alimentos | `Spring Boot` `PostgreSQL` | Plataforma do iogurte de grão-de-bico com Nutrição Santa Marcelina. **Em produção.** |
+| **[Genesis Contábil](https://github.com/olavoneves/genesis-contabil)** | Pessoal | Financeiro | `Spring Boot` `PostgreSQL` `Next.js` | Controle financeiro pessoal com autenticação e relatórios. Primeiro encontro da stack com o domínio de finanças. |
+| **[NutriProgress](https://github.com/olavoneves/NutriProgress)** | Pessoal | Micro-SaaS | `TypeScript` | Produto para nutricionistas acompanharem evolução de pacientes. |
 
 ---
 
-### 🥛 [BIOGURT – Projeto Acadêmico](https://biogurt.vercel.app)
-📌 **Spring Boot | JavaScript | PostgreSQL**  
-🔹 Plataforma de divulgação do iogurte de grão-de-bico (parceria com Nutrição Santa Marcelina)  
-🔹 Integração de **Spring Mail** para envio automático de formulários via e-mail  
-🔹 Publicado em produção: **biogurt.vercel.app**
+## 🎯 Posição em construção
+
+> **Status:** em book · ainda não listado · abertura prevista para o fim de 2026
+
+O projeto que estou montando agora é um **sistema completo voltado ao mercado financeiro** — a convergência de tudo que estudo em paralelo neste momento. Não é mais um CRUD com tema de bolsa: a ideia é que as três frentes abaixo se encontrem no mesmo lugar.
+
+| Frente | O que entra |
+| :--- | :--- |
+| **Engenharia** | Java 17, Spring Boot 3, PostgreSQL, arquitetura de microsserviços, mensageria |
+| **Quantitativa** | Álgebra Linear — matrizes, decomposição e otimização aplicadas a carteiras |
+| **Domínio** | Produtos financeiros — renda fixa, renda variável, derivativos, precificação |
+
+A tese é simples: **dev que entende o produto financeiro vale mais do que dev que só implementa a regra que outra pessoa escreveu.** É por isso que estou estudando a matemática e o produto junto com a stack, e não depois dela.
 
 ---
 
-### 🌍 [GREEVO – Defesa Civil e ONGs]([https://github.com/olavoneves](https://github.com/olavoneves/Greevo))
-📌 **Java | JavaScript | Node-RED | IBM Cloud**  
-🔹 Cadastro e gestão de abrigos e estoques em situações emergenciais  
-🔹 Chatbot inteligente via **Node-RED + IBM Cloud**  
-🔹 Redução de até **30% no tempo de cadastro** em simulações de teste
+## 🧾 Alocação técnica
+
+Como toda carteira, a minha stack tem um núcleo que não se mexe, um satélite que gira e uma parte em acumulação.
+
+**🟡 Core — posição estrutural**
+`Java 17` · `Spring Boot 3` · `Spring Data JPA` · `Spring Security` · `Hibernate` · `PostgreSQL` · `SQL`
+
+**🔵 Satélite — posição tática**
+`React` · `Next.js` · `TypeScript` · `JavaScript ES6+` · `C# / .NET` · `Docker` · `Jenkins` · `JUnit` · `Mockito` · `Python (automação)`
+
+**🟢 Em acumulação — aporte mensal**
+`AWS` · `Kubernetes` · `Kafka` · `OAuth2 / JWT` · `Apache Camel` · `SonarQube` · `Álgebra Linear` · `Produtos Financeiros`
+
+> A coluna **Δ** do painel mostra a alocação real: quanto de cada linguagem eu escrevi nos últimos 5 meses comparado ao meu histórico total. É a única parte deste README que eu não escolho — ela vem dos bytes dos repositórios.
 
 ---
 
-## 🛠️ Tech Stack Visual
+## 📊 Teses para 2026
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate,react,python,docker,git" height="40" />
-</div>
+| Tese | Horizonte | Status |
+| :--- | :--- | :--- |
+| **Sistema completo para o mercado financeiro** — engenharia + quantitativa + produto | Fim de 2026 | 🔴 Posição principal |
+| Álgebra Linear aplicada a otimização de carteiras | Contínuo | 🟢 Em execução |
+| Produtos financeiros — renda fixa, variável e derivativos | Contínuo | 🟢 Em execução |
+| Spring Security avançado — JWT e OAuth2 em produção | Curto | 🟢 Em execução |
+| AWS + containers (Docker / Kubernetes) | Médio | 🟡 Montando posição |
+| Microsserviços com mensageria e auth distribuída | Médio | 🟡 Montando posição |
+| Portfólio novo em React + Next.js | Curto | 🟢 Em execução |
 
 ---
 
-## 📊 GitHub Analytics
+## ⚙️ Como esse painel funciona
+
+Cansei de ver o mesmo perfil de GitHub repetido — os mesmos três cards, o mesmo grafo de contribuição. Então construí um.
+
+O `assets/onvs-terminal.svg` é gerado por um script Python (só stdlib, zero dependências) que roda no GitHub Actions:
+
+```
+GitHub API + calendário de contribuições
+        ↓
+  índice de ritmo (ONVS)
+        ↓
+  candles semanais + volume + média móvel
+        ↓
+     SVG animado em CSS  →  commit automático
+```
+
+**O índice ONVS** é a razão entre o meu ritmo curto (média exponencial de 9 dias de contribuições) e o meu ritmo estrutural (EMA de 75 dias), comprimida por um expoente para achatar dias fora da curva:
+
+$$\mathrm{ONVS}_t = 100 \cdot \left( \frac{\mathrm{EMA}_{9}(c_t) + k}{\mathrm{EMA}_{75}(c_t) + k} \right)^{0{,}45}$$
+
+Leitura: **100 = trabalhando no meu próprio ritmo histórico.** Acima disso estou acelerando, abaixo estou desacelerando. Como é uma razão e não juro composto, o índice oscila de verdade em vez de despencar a cada semana parada — cada candle verde ou vermelho significa alguma coisa.
+
+O resto vem direto da fonte: **volume** são commits por semana, a **carteira de linguagens** são bytes reais por repositório, e a **fita de cotações** no rodapé mistura linguagens com os repositórios de push mais recente.
+
+Nada é escrito à mão. Se eu passar um mês sem commitar, o painel vai mostrar isso — e essa é justamente a graça.
+
+```bash
+# rodar localmente
+python scripts/build.py --user olavoneves --out assets/onvs-terminal.svg
+```
+
+---
+
+## ☎️ Mesa de operações
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F16?style=for-the-badge&logo=linkedin&logoColor=4FA8F5)](https://linkedin.com/in/olavo-neves)
+[![Email](https://img.shields.io/badge/Email-0A0F16?style=for-the-badge&logo=gmail&logoColor=F05A6A)](mailto:olavo9neves@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0A0F16?style=for-the-badge&logo=whatsapp&logoColor=22D07E)](https://wa.me/5511955502307)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0F16?style=for-the-badge&logo=instagram&logoColor=F2B705)](https://instagram.com/olavoneves_)
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olavoneves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olavoneves&layout=compact&theme=github_dark" height="180" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olavoneves&theme=github-dark-dimmed&area=true&radius=16" height="300" />
+  <sub>
+    <strong>Disclaimer:</strong> rentabilidade passada não garante rentabilidade futura.
+    Commit diário ajuda.
+  </sub>
 </div>
-
----
-
-## 🎯 Objetivos 2026
-
-- ✅ Aprofundar em **Spring Security (JWT, OAuth2)**  
-- ✅ Dominar **AWS e containers com Docker/Kubernetes**  
-- ✅ Criar **microsserviços escaláveis** com mensageria e autenticação distribuída  
-- ✅ Lançar novo **portfólio com React + Next.js + animações modernas**
-
----
-
-## 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olavo-neves)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olavo9neves@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511955502307)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/olavoneves_)
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=olavoneves.olavoneves&left_color=darkslategrey&right_color=dodgerblue&left_text=Profile%20Views" />
-</div>
-
----
-
-<h4 align="center">"O código é poesia lógica — e cada commit é um verso de evolução." – Olavo Neves</h4>
