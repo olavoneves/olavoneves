@@ -14,7 +14,7 @@
 
 ## 🏦 Tese
 
-Sou **Olavo Neves**, desenvolvedor **Full Stack Java** formado em Análise e Desenvolvimento de Sistemas pela **FIAP**, com especialização prática em Java Web pela **Alura**.
+Sou **Olavo Neves**, **Software Engineer** formado em Análise e Desenvolvimento de Sistemas pela **FIAP**, com especialização prática em Java Web pela **Alura**.
 
 Trabalho com **backend em Spring Boot** e **frontend em React**, construindo APIs REST, integrações com bancos relacionais e não relacionais, e código que sobrevive ao segundo ano de produção — testes, arquitetura em camadas e CI/CD.
 
