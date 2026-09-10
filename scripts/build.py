@@ -25,12 +25,15 @@ def main():
     parser = argparse.ArgumentParser(description="Gera a capa animada do perfil.")
     parser.add_argument("--user", default="olavoneves")
     parser.add_argument("--out", default="assets/onvs-terminal.svg")
+    parser.add_argument("--role", default=None,
+                        help="subtitulo do cabecalho (padrao: render_terminal.ROLE)")
     parser.add_argument("--cache-dir", default=None,
                         help="reaproveita respostas da API (uso local, evita rate limit)")
     args = parser.parse_args()
 
     token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
     data = onvs_data.collect(args.user, token, args.cache_dir)
+    data["role"] = args.role
     svg = render_terminal.render(data)
 
     out_dir = os.path.dirname(os.path.abspath(args.out))

@@ -47,6 +47,10 @@ C = {
 MONTHS = ["JAN", "FEV", "MAR", "ABR", "MAI", "JUN",
           "JUL", "AGO", "SET", "OUT", "NOV", "DEZ"]
 
+# Texto do cabecalho. E a unica parte do painel escrita a mao -- todo o
+# resto vem da API do GitHub. Pode ser sobrescrito por `build.py --role`.
+ROLE = "SOFTWARE ENGINEER · MERCADO DE CAPITAIS"
+
 FONT = "ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace"
 BRT = timezone(timedelta(hours=-3))
 
@@ -138,6 +142,7 @@ def triangle(x, y, size, up, fill):
 def header(data, now):
     profile = data["profile"]
     name = (profile.get("name") or data["user"]).upper()
+    role = data.get("role") or ROLE
     out = [rect(0, 0, W, 40, C["panel"]),
            line(0, 40, W, 40, C["line"], 1)]
 
@@ -145,8 +150,7 @@ def header(data, now):
     out.append(text(34, 24, "ONVS", 15, C["amber"], weight=700, spacing="1.5"))
     out.append(text(84, 24, "|", 13, C["line"]))
     out.append(text(98, 24, name, 13, C["text"], weight=700, spacing="1.2"))
-    out.append(text(98 + len(name) * 8.4 + 14, 24,
-                    "DESENVOLVEDOR FULL STACK JAVA", 10.5, C["dim2"], spacing="0.8"))
+    out.append(text(98 + len(name) * 8.4 + 14, 24, role, 10.5, C["dim2"], spacing="0.8"))
 
     weekday = now.weekday() < 5
     session = 10 <= now.hour < 17 and weekday

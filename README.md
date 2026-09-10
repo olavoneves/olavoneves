@@ -14,27 +14,53 @@
 
 ## 🏦 Tese
 
-Sou **Olavo Neves**, **Software Engineer** formado em Análise e Desenvolvimento de Sistemas pela **FIAP**, com especialização prática em Java Web pela **Alura**.
+Sou **Olavo Neves**, **Software Engineer** backend em **Java (Spring Boot / Quarkus)**, atuando dentro de um **banco de investimento** — nas plataformas que processam swaps, derivativos, renda fixa, BM&F e asset management.
 
-Trabalho com **backend em Spring Boot** e **frontend em React**, construindo APIs REST, integrações com bancos relacionais e não relacionais, e código que sobrevive ao segundo ano de produção — testes, arquitetura em camadas e CI/CD.
+Construo APIs REST e serviços orientados a eventos, e **entendo o produto financeiro que esse código movimenta**: liquidação, integração de preços com a B3 e reporte regulatório ao Bacen. Trabalho lado a lado com mesa, backoffice e compliance, e conduzo a entrega até o fim — implementação, gestão de mudança e virada em produção.
 
-Venho do **mercado financeiro**, e é pra lá que essa stack está apontada. O meu diferencial não é escrever código: é **entender o que aquele código faz com o número no fim da planilha**.
+> A metáfora de terminal de mercado neste perfil não é enfeite. É onde eu trabalho.
+
+Último semestre de **Análise e Desenvolvimento de Sistemas na FIAP** (conclusão dez/2026), com **CPA (ANBIMA)** em conclusão e **AI-200 (Azure)** em andamento.
+
+---
+
+## 📟 Mesa · posição atual
+
+**Haitong — Banco de investimento** · São Paulo, SP (Faria Lima)
+*Analista de Negócios (Estágio) — Engenharia e sustentação de sistemas de mercado* · mar/2026 – atual
+
+| Indicador | Resultado |
+| :--- | :--- |
+| Chamados atendidos em 6 meses | **189** · responsável único pela fila |
+| SLA | **95,8%** |
+| Sistemas de mercado sob sustentação | **10+** |
+| Gestões de mudança (GMUD) conduzidas | **148** · 130 concluídas |
+| Fornecedores / sistemas / áreas de negócio | **8** · **15** · **10** |
+
+**O que isso significa na prática:**
+
+- **Integração com a B3** — diagnóstico e correção do fluxo de importação de cotações e taxas (`SecurityList`, `SettlementPrice`, `ReferencePrice`, `TradeInformation`), rastreando a falha da central de integrações até a replicação nas plataformas de negociação e backoffice.
+- **Pós-trade** — correção de integrações de liquidação e de reporte regulatório ao Bacen entre o core de mercado e os sistemas de backoffice e compliance, com ajuste de views e rotinas em produção após mudança no modelo de dados cadastrais.
+- **Automação em Python** de dois controles internos ligados a reporte regulatório (Outlook, requisições HTTP, empacotamento com PyInstaller). Um fluxo que consumia **horas de trabalho manual passou a rodar em ~10 segundos** — 3h/mês liberadas e o erro operacional eliminado.
+- **Incidentes críticos em SQL Server** — loop infinito em procedure de fornecedor saturando a CPU do servidor; duplicidade de chaves bloqueando upgrade de base, corrigida com deduplicação via CTE e ajuste de view com fan-out em join.
+- **Indicadores e documentação** — dashboards em Power BI publicados em produção para gestão de chamados, SLA e mudanças (modelagem DAX sobre SQL Server); manual técnico e system design de plataforma de recebíveis apresentados à diretoria.
+- **Ownership operacional** de dois sistemas críticos, incluindo o de PLD/FT.
 
 ---
 
 ## 📈 Carteira de projetos
 
-> A carteira abaixo é majoritariamente **posição acadêmica** — challenges da FIAP e projetos de curso, montados para aprender arquitetura, não para escalar base de usuário. Estão aqui pelas decisões técnicas dentro deles. A posição que realmente importa está logo abaixo, em [construção](#-posição-em-construção).
+| Ativo | Classe | Stack | Tese |
+| :--- | :--- | :--- | :--- |
+| **NutriProgress** | Produto · em construção | `Java` `Spring Boot` `PostgreSQL` `MongoDB` `RabbitMQ` `React + TS` `Stripe` `Docker` | SaaS com backend modular, autenticação JWT/OAuth, comunicação assíncrona entre módulos via mensageria e APIs REST documentadas. |
+| **Figurix** | Produto · em produção | `Next.js` `PostgreSQL + PostGIS` `Stripe` `GitHub Actions` `Vercel` | PWA com checkout session e tratamento de webhook, CI/CD e deploy contínuo. |
+| **[GeoSat](https://github.com/olavoneves/geosat-java)** | Acadêmico (FIAP) | `Java Spring Boot` `C#/.NET` `Oracle PL/SQL` `Docker` | Plataforma de monitoramento com APIs em dois runtimes sobre a mesma base Oracle, containerizadas e com cobertura total de testes automatizados. |
+| **[Clyvo Vet](https://github.com/olavoneves/clyvo-vet_api-java)** | Acadêmico (FIAP) | `Java` `Spring` `.NET` | API de delivery para o setor pet. |
+| **[HERA](https://github.com/olavoneves/hera-api_v1)** | Acadêmico (FIAP) | `Java` `React` `Python` `SQL` | Automação do acompanhamento de pacientes no Hospital das Clínicas, com integração via WhatsApp. Reduziu absenteísmo em até **10%** em simulação. |
+| **[GREEVO](https://github.com/olavoneves/Greevo)** | Acadêmico (FIAP) | `Java` `Node-RED` `IBM Cloud` | Gestão de abrigos e estoques em emergências, com chatbot. **-30%** no tempo de cadastro em teste. |
+| **[BIOGURT](https://biogurt.vercel.app)** | Acadêmico · em produção | `Spring Boot` `PostgreSQL` | Plataforma do iogurte de grão-de-bico com Nutrição Santa Marcelina. |
 
-| Ativo | Classe | Setor | Stack | Tese |
-| :--- | :--- | :--- | :--- | :--- |
-| **[HERA](https://github.com/olavoneves/hera-api_v1)** | Acadêmico | Saúde | `Java` `React` `Python` `SQL` | Automação do acompanhamento de pacientes no Hospital das Clínicas, com integração via WhatsApp. Reduziu absenteísmo em até **10%** em simulação. |
-| **[Clyvo Vet](https://github.com/olavoneves/clyvo-vet_api-java)** | Acadêmico | Pet / Delivery | `Java` `Spring` `.NET` | Mesma API modelada em **dois ecossistemas** (Java e C#) — exercício deliberado de comparar arquitetura, não linguagem. |
-| **[GeoSat](https://github.com/olavoneves/geosat-java)** | Acadêmico | Geoespacial | `Java` `.NET` | Estrutura de serviços para dados de satélite, também em dupla implementação. |
-| **[GREEVO](https://github.com/olavoneves/Greevo)** | Acadêmico | Defesa Civil | `Java` `Node-RED` `IBM Cloud` | Gestão de abrigos e estoques em emergências, com chatbot. **-30%** no tempo de cadastro em teste. |
-| **[BIOGURT](https://biogurt.vercel.app)** | Acadêmico | Alimentos | `Spring Boot` `PostgreSQL` | Plataforma do iogurte de grão-de-bico com Nutrição Santa Marcelina. **Em produção.** |
-| **[Genesis Contábil](https://github.com/olavoneves/genesis-contabil)** | Pessoal | Financeiro | `Spring Boot` `PostgreSQL` `Next.js` | Controle financeiro pessoal com autenticação e relatórios. Primeiro encontro da stack com o domínio de finanças. |
-| **[NutriProgress](https://github.com/olavoneves/NutriProgress)** | Pessoal | Micro-SaaS | `TypeScript` | Produto para nutricionistas acompanharem evolução de pacientes. |
+> Os projetos acadêmicos são challenges da FIAP, independentes entre si. Estão aqui pelas decisões técnicas dentro deles — o trabalho de produção está na seção acima.
 
 ---
 
@@ -42,32 +68,33 @@ Venho do **mercado financeiro**, e é pra lá que essa stack está apontada. O m
 
 > **Status:** em book · ainda não listado · abertura prevista para o fim de 2026
 
-O projeto que estou montando agora é um **sistema completo voltado ao mercado financeiro** — a convergência de tudo que estudo em paralelo neste momento. Não é mais um CRUD com tema de bolsa: a ideia é que as três frentes abaixo se encontrem no mesmo lugar.
+Um **sistema completo voltado ao mercado financeiro**, feito por conta própria. Trabalhar na sustentação e evolução das plataformas de um banco me deu o mapa do que existe; este projeto é onde eu construo do zero, juntando as três frentes que estudo em paralelo:
 
 | Frente | O que entra |
 | :--- | :--- |
-| **Engenharia** | Java 17, Spring Boot 3, PostgreSQL, arquitetura de microsserviços, mensageria |
+| **Engenharia** | Java 17, Spring Boot 3, Quarkus, PostgreSQL, mensageria, arquitetura orientada a eventos |
 | **Quantitativa** | Álgebra Linear — matrizes, decomposição e otimização aplicadas a carteiras |
-| **Domínio** | Produtos financeiros — renda fixa, renda variável, derivativos, precificação |
+| **Domínio** | Produtos financeiros — renda fixa, renda variável, derivativos, precificação (CPA/ANBIMA) |
 
-A tese é simples: **dev que entende o produto financeiro vale mais do que dev que só implementa a regra que outra pessoa escreveu.** É por isso que estou estudando a matemática e o produto junto com a stack, e não depois dela.
+A tese: **engenheiro que entende o produto financeiro vale mais do que engenheiro que só implementa a regra que outra pessoa escreveu.** Por isso estudo a matemática e o produto junto com a stack, não depois dela.
 
 ---
 
 ## 🧾 Alocação técnica
 
-Como toda carteira, a minha stack tem um núcleo que não se mexe, um satélite que gira e uma parte em acumulação.
-
 **🟡 Core — posição estrutural**
-`Java 17` · `Spring Boot 3` · `Spring Data JPA` · `Spring Security` · `Hibernate` · `PostgreSQL` · `SQL`
+`Java` · `Spring Boot` · `Quarkus` · `APIs REST` · `Microsserviços` · `Arquitetura orientada a eventos` · `Design Patterns` · `SQL Server (T-SQL)` · `PostgreSQL` · `Oracle PL/SQL`
 
 **🔵 Satélite — posição tática**
-`React` · `Next.js` · `TypeScript` · `JavaScript ES6+` · `C# / .NET` · `Docker` · `Jenkins` · `JUnit` · `Mockito` · `Python (automação)`
+`C#/.NET` · `Python` · `React` · `Next.js` · `TypeScript` · `RabbitMQ` · `Redis` · `MongoDB` · `Docker` · `Power BI (DAX)` · `GitHub Actions` · `AWS (EC2, S3)`
 
 **🟢 Em acumulação — aporte mensal**
-`AWS` · `Kubernetes` · `Kafka` · `OAuth2 / JWT` · `Apache Camel` · `SonarQube` · `Álgebra Linear` · `Produtos Financeiros`
+`Azure (AI-200)` · `CPA (ANBIMA)` · `Álgebra Linear` · `Kubernetes` · `Kafka`
 
-> A coluna **Δ** do painel mostra a alocação real: quanto de cada linguagem eu escrevi nos últimos 5 meses comparado ao meu histórico total. É a única parte deste README que eu não escolho — ela vem dos bytes dos repositórios.
+**💼 Negócio — a classe de ativo que quase nenhum dev tem**
+`Swaps e derivativos` · `Renda fixa` · `BM&F` · `Asset management` · `Integração com B3` · `Liquidação` · `Pós-trade` · `PLD/FT` · `Reporte Bacen` · `Controles internos` · `Sistemas regulados` · `GMUD`
+
+> A coluna **Δ** do painel mostra a alocação real das linguagens: quanto eu escrevi de cada uma nos últimos 5 meses comparado ao histórico total. É a única parte deste README que eu não escolho — vem dos bytes dos repositórios.
 
 ---
 
@@ -75,13 +102,12 @@ Como toda carteira, a minha stack tem um núcleo que não se mexe, um satélite 
 
 | Tese | Horizonte | Status |
 | :--- | :--- | :--- |
-| **Sistema completo para o mercado financeiro** — engenharia + quantitativa + produto | Fim de 2026 | 🔴 Posição principal |
+| Conclusão de ADS na FIAP | dez/2026 | 🟢 Último semestre |
+| **CPA (ANBIMA)** | Curto | 🟢 Em conclusão |
+| **AI-200 (Azure)** | Curto | 🟡 Em andamento |
+| Sistema próprio para o mercado financeiro | Fim de 2026 | 🔴 Posição principal |
 | Álgebra Linear aplicada a otimização de carteiras | Contínuo | 🟢 Em execução |
-| Produtos financeiros — renda fixa, variável e derivativos | Contínuo | 🟢 Em execução |
-| Spring Security avançado — JWT e OAuth2 em produção | Curto | 🟢 Em execução |
-| AWS + containers (Docker / Kubernetes) | Médio | 🟡 Montando posição |
-| Microsserviços com mensageria e auth distribuída | Médio | 🟡 Montando posição |
-| Portfólio novo em React + Next.js | Curto | 🟢 Em execução |
+| Kafka e Kubernetes em arquitetura distribuída | Médio | 🟡 Montando posição |
 
 ---
 
@@ -119,6 +145,8 @@ python scripts/build.py --user olavoneves --out assets/onvs-terminal.svg
 ---
 
 ## ☎️ Mesa de operações
+
+São Paulo, SP · Português (nativo) · Inglês (B2)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F16?style=for-the-badge&logo=linkedin&logoColor=4FA8F5)](https://linkedin.com/in/olavo-neves)
 [![Email](https://img.shields.io/badge/Email-0A0F16?style=for-the-badge&logo=gmail&logoColor=F05A6A)](mailto:olavo9neves@gmail.com)
