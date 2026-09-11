@@ -59,10 +59,10 @@
 <text x="84.0" y="24.0" font-size="13" fill="#161E29">|</text>
 <text x="98.0" y="24.0" font-size="13" fill="#D8E1EC" font-weight="700" letter-spacing="1.2">OLAVO NEVES</text>
 <text x="204.4" y="24.0" font-size="10.5" fill="#8494A8" letter-spacing="0.8">SOFTWARE ENGINEER · MERCADO DE CAPITAIS</text>
-<text x="980.0" y="24.0" font-size="10.5" fill="#64748B" text-anchor="end">11/09/2026 04:42 BRT</text>
-<rect x="737.2" y="11.0" width="102.8" height="18.0" fill="#64748B" rx="9" opacity="0.13"/>
-<circle cx="749.2" cy="20" r="3" fill="#8494A8" class="blink"/>
-<text x="758.2" y="23.5" font-size="9.5" fill="#8494A8" font-weight="700" letter-spacing="0.6">AFTER-MARKET</text>
+<text x="980.0" y="24.0" font-size="10.5" fill="#64748B" text-anchor="end">11/09/2026 13:51 BRT</text>
+<rect x="730.8" y="11.0" width="109.2" height="18.0" fill="#22D07E" rx="9" opacity="0.13"/>
+<circle cx="742.8" cy="20" r="3" fill="#22D07E" class="blink"/>
+<text x="751.8" y="23.5" font-size="9.5" fill="#22D07E" font-weight="700" letter-spacing="0.6">PREGÃO ABERTO</text>
 <text x="26.0" y="62.0" font-size="9.5" fill="#64748B" letter-spacing="1.4">ÍNDICE DE RITMO · BASE 100 = MÉDIA HISTÓRICA</text>
 <text x="26.0" y="95.0" font-size="32" fill="#22D07E" font-weight="700">145,85</text>
 <path d="M165.0 80.0 L170.4 90.2 L159.6 90.2 Z" fill="#22D07E"/>
@@ -387,7 +387,7 @@
 <text x="1161.0" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1177.0" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">OLAVONEVES</text>
 <text x="1252.0" y="453.0" font-size="11" fill="#8494A8">PYTHON</text>
-<text x="1300.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+1</text>
+<text x="1300.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+0</text>
 <text x="1330.4" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1346.4" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">CLYVO-VET_API-JAVA</text>
 <text x="1474.2" y="453.0" font-size="11" fill="#8494A8">JAVA</text>
