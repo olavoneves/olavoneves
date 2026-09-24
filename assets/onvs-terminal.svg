@@ -59,7 +59,7 @@
 <text x="84.0" y="24.0" font-size="13" fill="#161E29">|</text>
 <text x="98.0" y="24.0" font-size="13" fill="#D8E1EC" font-weight="700" letter-spacing="1.2">OLAVO NEVES</text>
 <text x="204.4" y="24.0" font-size="10.5" fill="#8494A8" letter-spacing="0.8">SOFTWARE ENGINEER · MERCADO DE CAPITAIS</text>
-<text x="980.0" y="24.0" font-size="10.5" fill="#64748B" text-anchor="end">23/09/2026 21:11 BRT</text>
+<text x="980.0" y="24.0" font-size="10.5" fill="#64748B" text-anchor="end">24/09/2026 05:04 BRT</text>
 <rect x="737.2" y="11.0" width="102.8" height="18.0" fill="#64748B" rx="9" opacity="0.13"/>
 <circle cx="749.2" cy="20" r="3" fill="#8494A8" class="blink"/>
 <text x="758.2" y="23.5" font-size="9.5" fill="#8494A8" font-weight="700" letter-spacing="0.6">AFTER-MARKET</text>
@@ -392,31 +392,31 @@
 <text x="1337.0" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1353.0" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">INVESTFLOW-CP4-.NET-FIAP</text>
 <text x="1520.4" y="453.0" font-size="11" fill="#8494A8">C#</text>
-<text x="1542.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+7</text>
+<text x="1542.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+8</text>
 <text x="1572.4" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1588.4" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">CLYVO-VET_API-JAVA</text>
 <text x="1716.2" y="453.0" font-size="11" fill="#8494A8">JAVA</text>
-<text x="1751.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+12</text>
+<text x="1751.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+13</text>
 <text x="1788.0" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1804.0" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">CLYVO-VET_API-.NET</text>
 <text x="1931.8" y="453.0" font-size="11" fill="#8494A8">C#</text>
-<text x="1954.0" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+14</text>
+<text x="1954.0" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+15</text>
 <text x="1990.4" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="2006.4" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">MERCADOEXPRESS-MVC</text>
 <text x="2134.2" y="453.0" font-size="11" fill="#8494A8">HTML</text>
-<text x="2169.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+19</text>
+<text x="2169.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+20</text>
 <text x="2206.0" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="2222.0" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">MERCADOEXPRESS-API</text>
 <text x="2349.8" y="453.0" font-size="11" fill="#8494A8">JAVA</text>
-<text x="2385.2" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+41</text>
+<text x="2385.2" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+42</text>
 <text x="2421.6" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="2437.6" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">NUTRIPROGRESS</text>
 <text x="2532.4" y="453.0" font-size="11" fill="#8494A8">TYPESCRIPT</text>
-<text x="2607.4" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+47</text>
+<text x="2607.4" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+48</text>
 <text x="2643.8" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="2659.8" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">GEOSAT-JAVA</text>
 <text x="2741.4" y="453.0" font-size="11" fill="#8494A8">JAVA</text>
-<text x="2776.8" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+98</text>
+<text x="2776.8" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+99</text>
 <text x="2813.2" y="453.0" font-size="11" fill="#161E29">|</text>
 </g>
 <use href="#tape-runs" x="2829"/>
