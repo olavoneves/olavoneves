@@ -59,15 +59,15 @@
 <text x="84.0" y="24.0" font-size="13" fill="#161E29">|</text>
 <text x="98.0" y="24.0" font-size="13" fill="#D8E1EC" font-weight="700" letter-spacing="1.2">OLAVO NEVES</text>
 <text x="204.4" y="24.0" font-size="10.5" fill="#8494A8" letter-spacing="0.8">SOFTWARE ENGINEER · MERCADO DE CAPITAIS</text>
-<text x="980.0" y="24.0" font-size="10.5" fill="#64748B" text-anchor="end">24/09/2026 14:43 BRT</text>
-<rect x="730.8" y="11.0" width="109.2" height="18.0" fill="#22D07E" rx="9" opacity="0.13"/>
-<circle cx="742.8" cy="20" r="3" fill="#22D07E" class="blink"/>
-<text x="751.8" y="23.5" font-size="9.5" fill="#22D07E" font-weight="700" letter-spacing="0.6">PREGÃO ABERTO</text>
+<text x="980.0" y="24.0" font-size="10.5" fill="#64748B" text-anchor="end">24/09/2026 21:13 BRT</text>
+<rect x="737.2" y="11.0" width="102.8" height="18.0" fill="#64748B" rx="9" opacity="0.13"/>
+<circle cx="749.2" cy="20" r="3" fill="#8494A8" class="blink"/>
+<text x="758.2" y="23.5" font-size="9.5" fill="#8494A8" font-weight="700" letter-spacing="0.6">AFTER-MARKET</text>
 <text x="26.0" y="62.0" font-size="9.5" fill="#64748B" letter-spacing="1.4">ÍNDICE DE RITMO · BASE 100 = MÉDIA HISTÓRICA</text>
-<text x="26.0" y="95.0" font-size="32" fill="#22D07E" font-weight="700">92,95</text>
+<text x="26.0" y="95.0" font-size="32" fill="#22D07E" font-weight="700">86,43</text>
 <path d="M145.5 80.0 L150.9 90.2 L140.1 90.2 Z" fill="#22D07E"/>
-<text x="157.5" y="91.0" font-size="15" fill="#22D07E" font-weight="700">+63,24%</text>
-<text x="157.5" y="106.0" font-size="9.5" fill="#64748B">+36,01 pts em 4 semanas</text>
+<text x="157.5" y="91.0" font-size="15" fill="#22D07E" font-weight="700">+51,78%</text>
+<text x="157.5" y="106.0" font-size="9.5" fill="#64748B">+29,49 pts em 4 semanas</text>
 <rect x="450.0" y="76.0" width="9.0" height="13.0" fill="#22D07E" rx="1"/>
 <text x="465.0" y="86.0" font-size="9" fill="#8494A8">SEMANA DE ALTA</text>
 <rect x="450.0" y="94.0" width="9.0" height="13.0" fill="#F05A6A" rx="1"/>
@@ -247,10 +247,10 @@
 <line x1="628.8" y1="186.6" x2="628.8" y2="211.5" stroke="#F05A6A" stroke-width="1" opacity="0.85"/>
 <rect x="625.0" y="193.5" width="7.6" height="6.7" fill="#F05A6A" rx="0.8"/>
 <rect x="625.0" y="338.7" width="7.6" height="19.3" fill="#F05A6A" rx="0.8" opacity="0.42"/>
-<line x1="640.3" y1="200.2" x2="640.3" y2="231.2" stroke="#F05A6A" stroke-width="1" opacity="0.85"/>
-<rect x="636.5" y="200.2" width="7.6" height="31.0" fill="#F05A6A" rx="0.8"/>
+<line x1="640.3" y1="200.2" x2="640.3" y2="237.9" stroke="#F05A6A" stroke-width="1" opacity="0.85"/>
+<rect x="636.5" y="200.2" width="7.6" height="37.7" fill="#F05A6A" rx="0.8"/>
 <rect x="636.5" y="358.0" width="7.6" height="0.0" fill="#F05A6A" rx="0.8" opacity="0.42"/>
-<polyline points="31.7,249.7 43.2,247.2 54.7,247.8 66.2,244.5 77.7,236.2 89.1,225.4 100.6,219.5 112.1,217.1 123.6,224.7 135.1,231.9 146.6,227.1 158.0,219.8 169.5,219.0 181.0,228.2 192.5,245.2 204.0,264.5 215.4,262.7 226.9,251.9 238.4,233.0 249.9,222.2 261.4,222.3 272.9,230.9 284.3,244.1 295.8,247.5 307.3,250.4 318.8,248.7 330.3,240.0 341.7,240.2 353.2,241.9 364.7,242.5 376.2,251.5 387.7,252.9 399.1,234.3 410.6,217.1 422.1,192.8 433.6,172.4 445.1,177.3 456.6,180.8 468.0,195.5 479.5,217.1 491.0,236.9 502.5,258.9 514.0,277.4 525.4,285.3 536.9,286.2 548.4,284.2 559.9,271.5 571.4,255.8 582.9,249.2 594.3,246.3 605.8,231.2 617.3,223.8 628.8,209.7 640.3,200.4" fill="none" stroke="#4FA8F5" stroke-width="1.6" stroke-linejoin="round" opacity="0.9" class="ma"/>
+<polyline points="31.7,249.7 43.2,247.2 54.7,247.8 66.2,244.5 77.7,236.2 89.1,225.4 100.6,219.5 112.1,217.1 123.6,224.7 135.1,231.9 146.6,227.1 158.0,219.8 169.5,219.0 181.0,228.2 192.5,245.2 204.0,264.5 215.4,262.7 226.9,251.9 238.4,233.0 249.9,222.2 261.4,222.3 272.9,230.9 284.3,244.1 295.8,247.5 307.3,250.4 318.8,248.7 330.3,240.0 341.7,240.2 353.2,241.9 364.7,242.5 376.2,251.5 387.7,252.9 399.1,234.3 410.6,217.1 422.1,192.8 433.6,172.4 445.1,177.3 456.6,180.8 468.0,195.5 479.5,217.1 491.0,236.9 502.5,258.9 514.0,277.4 525.4,285.3 536.9,286.2 548.4,284.2 559.9,271.5 571.4,255.8 582.9,249.2 594.3,246.3 605.8,231.2 617.3,223.8 628.8,209.7 640.3,202.1" fill="none" stroke="#4FA8F5" stroke-width="1.6" stroke-linejoin="round" opacity="0.9" class="ma"/>
 </g>
 <text x="31.7" y="372.0" font-size="8.5" fill="#64748B" text-anchor="middle" letter-spacing="0.5">SET</text>
 <text x="66.2" y="372.0" font-size="8.5" fill="#64748B" text-anchor="middle" letter-spacing="0.5">OUT</text>
@@ -266,9 +266,9 @@
 <text x="559.9" y="372.0" font-size="8.5" fill="#64748B" text-anchor="middle" letter-spacing="0.5">AGO</text>
 <text x="617.3" y="372.0" font-size="8.5" fill="#64748B" text-anchor="middle" letter-spacing="0.5">SET</text>
 <g class="fade-late">
-<line x1="26.0" y1="231.2" x2="648.0" y2="231.2" stroke="#F05A6A" stroke-width="1" stroke-dasharray="4 4" opacity="0.55"/>
-<rect x="650.0" y="222.7" width="46.0" height="17.0" fill="#F05A6A" rx="2.5"/>
-<text x="673.0" y="235.2" font-size="10" fill="#04070B" font-weight="700" text-anchor="middle">93,0</text>
+<line x1="26.0" y1="237.9" x2="648.0" y2="237.9" stroke="#F05A6A" stroke-width="1" stroke-dasharray="4 4" opacity="0.55"/>
+<rect x="650.0" y="229.4" width="46.0" height="17.0" fill="#F05A6A" rx="2.5"/>
+<text x="673.0" y="241.9" font-size="10" fill="#04070B" font-weight="700" text-anchor="middle">86,4</text>
 </g>
 <text x="26.0" y="314.0" font-size="8.5" fill="#64748B" letter-spacing="1">VOLUME SEMANAL</text>
 <rect x="26" y="124" width="90" height="234" fill="url(#sweep)" class="scan"/>
@@ -283,13 +283,13 @@
 <text x="242.0" y="414.0" font-size="13" fill="#F05A6A" font-weight="700">37,54</text>
 <line x1="340.0" y1="390.0" x2="340.0" y2="412.0" stroke="#161E29" stroke-width="1"/>
 <text x="350.0" y="399.0" font-size="8.5" fill="#64748B" letter-spacing="0.9">FECHAMENTO</text>
-<text x="350.0" y="414.0" font-size="13" fill="#D8E1EC" font-weight="700">92,95</text>
+<text x="350.0" y="414.0" font-size="13" fill="#D8E1EC" font-weight="700">86,43</text>
 <line x1="448.0" y1="390.0" x2="448.0" y2="412.0" stroke="#161E29" stroke-width="1"/>
 <text x="458.0" y="399.0" font-size="8.5" fill="#64748B" letter-spacing="0.9">VOLUME 12M</text>
 <text x="458.0" y="414.0" font-size="13" fill="#F2B705" font-weight="700">954</text>
 <line x1="556.0" y1="390.0" x2="556.0" y2="412.0" stroke="#161E29" stroke-width="1"/>
 <text x="566.0" y="399.0" font-size="8.5" fill="#64748B" letter-spacing="0.9">VOLATILIDADE</text>
-<text x="566.0" y="414.0" font-size="13" fill="#D8E1EC" font-weight="700">33,9%</text>
+<text x="566.0" y="414.0" font-size="13" fill="#D8E1EC" font-weight="700">34,0%</text>
 <rect x="700.0" y="40.0" width="300.0" height="388.0" fill="#0A0F16" opacity="0.55"/>
 <line x1="700.0" y1="40.0" x2="700.0" y2="428.0" stroke="#161E29" stroke-width="1"/>
 <text x="722.0" y="62.0" font-size="9.5" fill="#F2B705" font-weight="700" letter-spacing="1.4">CARTEIRA · LINGUAGENS</text>
