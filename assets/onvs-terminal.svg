@@ -59,7 +59,7 @@
 <text x="84.0" y="24.0" font-size="13" fill="#161E29">|</text>
 <text x="98.0" y="24.0" font-size="13" fill="#D8E1EC" font-weight="700" letter-spacing="1.2">OLAVO NEVES</text>
 <text x="204.4" y="24.0" font-size="10.5" fill="#8494A8" letter-spacing="0.8">SOFTWARE ENGINEER · MERCADO DE CAPITAIS</text>
-<text x="980.0" y="24.0" font-size="10.5" fill="#64748B" text-anchor="end">28/09/2026 22:25 BRT</text>
+<text x="980.0" y="24.0" font-size="10.5" fill="#64748B" text-anchor="end">29/09/2026 06:24 BRT</text>
 <rect x="737.2" y="11.0" width="102.8" height="18.0" fill="#64748B" rx="9" opacity="0.13"/>
 <circle cx="749.2" cy="20" r="3" fill="#8494A8" class="blink"/>
 <text x="758.2" y="23.5" font-size="9.5" fill="#8494A8" font-weight="700" letter-spacing="0.6">AFTER-MARKET</text>
@@ -299,7 +299,7 @@
 <rect x="722.0" y="94.0" width="256.0" height="4.0" fill="#161E29" rx="2"/>
 <rect x="722.0" y="94.0" width="132.2" height="4.0" fill="#F2B705" rx="2" class="bar" style="animation-delay:0.50s"/>
 <path d="M725.4 107.7 L728.3 102.3 L722.5 102.3 Z" fill="#F05A6A"/>
-<text x="733.0" y="107.5" font-size="8.5" fill="#F05A6A">-0,3pp</text>
+<text x="733.0" y="107.5" font-size="8.5" fill="#F05A6A">-0,4pp</text>
 <text x="778.0" y="107.5" font-size="8.5" fill="#64748B">·  31 repos</text>
 <text x="722.0" y="124.0" font-size="11" fill="#D8E1EC" font-weight="700">TYPESCRIPT</text>
 <text x="978.0" y="124.0" font-size="11" fill="#D8E1EC" font-weight="700" text-anchor="end">19,4%</text>
@@ -313,7 +313,7 @@
 <rect x="722.0" y="166.0" width="256.0" height="4.0" fill="#161E29" rx="2"/>
 <rect x="722.0" y="166.0" width="37.2" height="4.0" fill="#4FA8F5" rx="2" class="bar" style="animation-delay:0.72s"/>
 <path d="M725.4 173.3 L728.3 178.7 L722.5 178.7 Z" fill="#22D07E"/>
-<text x="733.0" y="179.5" font-size="8.5" fill="#22D07E">+7,9pp</text>
+<text x="733.0" y="179.5" font-size="8.5" fill="#22D07E">+8,0pp</text>
 <text x="778.0" y="179.5" font-size="8.5" fill="#64748B">·  3 repos</text>
 <text x="722.0" y="196.0" font-size="11" fill="#D8E1EC" font-weight="700">HTML</text>
 <text x="978.0" y="196.0" font-size="11" fill="#D8E1EC" font-weight="700" text-anchor="end">4,5%</text>
@@ -356,7 +356,7 @@
 <g id="tape-runs">
 <text x="0.0" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">JAVA</text>
 <text x="35.4" y="453.0" font-size="11" fill="#8494A8">51,6%</text>
-<text x="77.4" y="453.0" font-size="11" fill="#F05A6A" font-weight="700">-0,3pp</text>
+<text x="77.4" y="453.0" font-size="11" fill="#F05A6A" font-weight="700">-0,4pp</text>
 <text x="127.0" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="143.0" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">TYPESCRIPT</text>
 <text x="218.0" y="453.0" font-size="11" fill="#8494A8">19,4%</text>
@@ -364,7 +364,7 @@
 <text x="309.6" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="325.6" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">C#</text>
 <text x="347.8" y="453.0" font-size="11" fill="#8494A8">14,5%</text>
-<text x="389.8" y="453.0" font-size="11" fill="#22D07E" font-weight="700">+7,9pp</text>
+<text x="389.8" y="453.0" font-size="11" fill="#22D07E" font-weight="700">+8,0pp</text>
 <text x="439.4" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="455.4" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">HTML</text>
 <text x="490.8" y="453.0" font-size="11" fill="#8494A8">4,5%</text>
@@ -392,31 +392,31 @@
 <text x="1337.0" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1353.0" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">INVESTFLOW-CP4-.NET-FIAP</text>
 <text x="1520.4" y="453.0" font-size="11" fill="#8494A8">C#</text>
-<text x="1542.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+12</text>
+<text x="1542.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+13</text>
 <text x="1579.0" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1595.0" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">CLYVO-VET_API-JAVA</text>
 <text x="1722.8" y="453.0" font-size="11" fill="#8494A8">JAVA</text>
-<text x="1758.2" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+17</text>
+<text x="1758.2" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+18</text>
 <text x="1794.6" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1810.6" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">CLYVO-VET_API-.NET</text>
 <text x="1938.4" y="453.0" font-size="11" fill="#8494A8">C#</text>
-<text x="1960.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+19</text>
+<text x="1960.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+20</text>
 <text x="1997.0" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="2013.0" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">MERCADOEXPRESS-MVC</text>
 <text x="2140.8" y="453.0" font-size="11" fill="#8494A8">HTML</text>
-<text x="2176.2" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+24</text>
+<text x="2176.2" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+25</text>
 <text x="2212.6" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="2228.6" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">MERCADOEXPRESS-API</text>
 <text x="2356.4" y="453.0" font-size="11" fill="#8494A8">JAVA</text>
-<text x="2391.8" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+46</text>
+<text x="2391.8" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+47</text>
 <text x="2428.2" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="2444.2" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">NUTRIPROGRESS</text>
 <text x="2539.0" y="453.0" font-size="11" fill="#8494A8">TYPESCRIPT</text>
-<text x="2614.0" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+52</text>
+<text x="2614.0" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+53</text>
 <text x="2650.4" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="2666.4" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">GEOSAT-JAVA</text>
 <text x="2748.0" y="453.0" font-size="11" fill="#8494A8">JAVA</text>
-<text x="2783.4" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+103</text>
+<text x="2783.4" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+104</text>
 <text x="2826.4" y="453.0" font-size="11" fill="#161E29">|</text>
 </g>
 <use href="#tape-runs" x="2842"/>
