@@ -59,15 +59,15 @@
 <text x="84.0" y="24.0" font-size="13" fill="#161E29">|</text>
 <text x="98.0" y="24.0" font-size="13" fill="#D8E1EC" font-weight="700" letter-spacing="1.2">OLAVO NEVES</text>
 <text x="204.4" y="24.0" font-size="10.5" fill="#8494A8" letter-spacing="0.8">SOFTWARE ENGINEER · MERCADO DE CAPITAIS</text>
-<text x="980.0" y="24.0" font-size="10.5" fill="#64748B" text-anchor="end">02/11/2026 19:04 BRT</text>
+<text x="980.0" y="24.0" font-size="10.5" fill="#64748B" text-anchor="end">03/11/2026 07:24 BRT</text>
 <rect x="737.2" y="11.0" width="102.8" height="18.0" fill="#64748B" rx="9" opacity="0.13"/>
 <circle cx="749.2" cy="20" r="3" fill="#8494A8" class="blink"/>
 <text x="758.2" y="23.5" font-size="9.5" fill="#8494A8" font-weight="700" letter-spacing="0.6">AFTER-MARKET</text>
 <text x="26.0" y="62.0" font-size="9.5" fill="#64748B" letter-spacing="1.4">ÍNDICE DE RITMO · BASE 100 = MÉDIA HISTÓRICA</text>
-<text x="26.0" y="95.0" font-size="32" fill="#22D07E" font-weight="700">135,17</text>
+<text x="26.0" y="95.0" font-size="32" fill="#22D07E" font-weight="700">127,26</text>
 <path d="M165.0 80.0 L170.4 90.2 L159.6 90.2 Z" fill="#22D07E"/>
-<text x="177.0" y="91.0" font-size="15" fill="#22D07E" font-weight="700">+194,32%</text>
-<text x="177.0" y="106.0" font-size="9.5" fill="#64748B">+89,25 pts em 4 semanas</text>
+<text x="177.0" y="91.0" font-size="15" fill="#22D07E" font-weight="700">+177,08%</text>
+<text x="177.0" y="106.0" font-size="9.5" fill="#64748B">+81,33 pts em 4 semanas</text>
 <rect x="450.0" y="76.0" width="9.0" height="13.0" fill="#22D07E" rx="1"/>
 <text x="465.0" y="86.0" font-size="9" fill="#8494A8">SEMANA DE ALTA</text>
 <rect x="450.0" y="94.0" width="9.0" height="13.0" fill="#F05A6A" rx="1"/>
@@ -247,10 +247,10 @@
 <line x1="628.8" y1="177.4" x2="628.8" y2="245.1" stroke="#22D07E" stroke-width="1" opacity="0.85"/>
 <rect x="625.0" y="180.9" width="7.6" height="64.2" fill="#22D07E" rx="0.8"/>
 <rect x="625.0" y="322.8" width="7.6" height="35.2" fill="#22D07E" rx="0.8" opacity="0.42"/>
-<line x1="640.3" y1="180.9" x2="640.3" y2="187.7" stroke="#F05A6A" stroke-width="1" opacity="0.85"/>
-<rect x="636.5" y="180.9" width="7.6" height="6.7" fill="#F05A6A" rx="0.8"/>
+<line x1="640.3" y1="180.9" x2="640.3" y2="195.8" stroke="#F05A6A" stroke-width="1" opacity="0.85"/>
+<rect x="636.5" y="180.9" width="7.6" height="14.9" fill="#F05A6A" rx="0.8"/>
 <rect x="636.5" y="358.0" width="7.6" height="0.0" fill="#F05A6A" rx="0.8" opacity="0.42"/>
-<polyline points="31.7,231.5 43.2,222.0 54.7,226.7 66.2,224.9 77.7,216.1 89.1,210.3 100.6,211.0 112.1,222.3 123.6,241.1 135.1,261.5 146.6,259.9 158.0,249.1 169.5,230.1 181.0,219.4 192.5,220.0 204.0,229.2 215.4,242.9 226.9,246.4 238.4,249.5 249.9,247.8 261.4,239.2 272.9,239.5 284.3,241.3 295.8,242.0 307.3,251.0 318.8,252.5 330.3,233.9 341.7,216.8 353.2,192.5 364.7,172.3 376.2,177.3 387.7,180.8 399.1,195.5 410.6,217.1 422.1,237.0 433.6,258.9 445.1,277.4 456.6,285.3 468.0,286.2 479.5,284.2 491.0,271.5 502.5,255.8 514.0,249.2 525.4,246.3 536.9,231.2 548.4,223.6 559.9,209.6 571.4,204.9 582.9,229.1 594.3,250.8 605.8,251.5 617.3,250.3 628.8,227.2 640.3,204.2" fill="none" stroke="#4FA8F5" stroke-width="1.6" stroke-linejoin="round" opacity="0.9" class="ma"/>
+<polyline points="31.7,231.5 43.2,222.0 54.7,226.7 66.2,224.9 77.7,216.1 89.1,210.3 100.6,211.0 112.1,222.3 123.6,241.1 135.1,261.5 146.6,259.9 158.0,249.1 169.5,230.1 181.0,219.4 192.5,220.0 204.0,229.2 215.4,242.9 226.9,246.4 238.4,249.5 249.9,247.8 261.4,239.2 272.9,239.5 284.3,241.3 295.8,242.0 307.3,251.0 318.8,252.5 330.3,233.9 341.7,216.8 353.2,192.5 364.7,172.3 376.2,177.3 387.7,180.8 399.1,195.5 410.6,217.1 422.1,237.0 433.6,258.9 445.1,277.4 456.6,285.3 468.0,286.2 479.5,284.2 491.0,271.5 502.5,255.8 514.0,249.2 525.4,246.3 536.9,231.2 548.4,223.6 559.9,209.6 571.4,204.9 582.9,229.1 594.3,250.8 605.8,251.5 617.3,250.3 628.8,227.2 640.3,206.2" fill="none" stroke="#4FA8F5" stroke-width="1.6" stroke-linejoin="round" opacity="0.9" class="ma"/>
 </g>
 <text x="31.7" y="372.0" font-size="8.5" fill="#64748B" text-anchor="middle" letter-spacing="0.5">NOV</text>
 <text x="89.1" y="372.0" font-size="8.5" fill="#64748B" text-anchor="middle" letter-spacing="0.5">DEZ</text>
@@ -265,9 +265,9 @@
 <text x="548.4" y="372.0" font-size="8.5" fill="#64748B" text-anchor="middle" letter-spacing="0.5">SET</text>
 <text x="594.3" y="372.0" font-size="8.5" fill="#64748B" text-anchor="middle" letter-spacing="0.5">OUT</text>
 <g class="fade-late">
-<line x1="26.0" y1="187.7" x2="648.0" y2="187.7" stroke="#F05A6A" stroke-width="1" stroke-dasharray="4 4" opacity="0.55"/>
-<rect x="650.0" y="179.2" width="46.0" height="17.0" fill="#F05A6A" rx="2.5"/>
-<text x="673.0" y="191.7" font-size="10" fill="#04070B" font-weight="700" text-anchor="middle">135,2</text>
+<line x1="26.0" y1="195.8" x2="648.0" y2="195.8" stroke="#F05A6A" stroke-width="1" stroke-dasharray="4 4" opacity="0.55"/>
+<rect x="650.0" y="187.3" width="46.0" height="17.0" fill="#F05A6A" rx="2.5"/>
+<text x="673.0" y="199.8" font-size="10" fill="#04070B" font-weight="700" text-anchor="middle">127,3</text>
 </g>
 <text x="26.0" y="314.0" font-size="8.5" fill="#64748B" letter-spacing="1">VOLUME SEMANAL</text>
 <rect x="26" y="124" width="90" height="234" fill="url(#sweep)" class="scan"/>
@@ -282,7 +282,7 @@
 <text x="242.0" y="414.0" font-size="13" fill="#F05A6A" font-weight="700">37,55</text>
 <line x1="340.0" y1="390.0" x2="340.0" y2="412.0" stroke="#161E29" stroke-width="1"/>
 <text x="350.0" y="399.0" font-size="8.5" fill="#64748B" letter-spacing="0.9">FECHAMENTO</text>
-<text x="350.0" y="414.0" font-size="13" fill="#D8E1EC" font-weight="700">135,17</text>
+<text x="350.0" y="414.0" font-size="13" fill="#D8E1EC" font-weight="700">127,26</text>
 <line x1="448.0" y1="390.0" x2="448.0" y2="412.0" stroke="#161E29" stroke-width="1"/>
 <text x="458.0" y="399.0" font-size="8.5" fill="#64748B" letter-spacing="0.9">VOLUME 12M</text>
 <text x="458.0" y="414.0" font-size="13" fill="#F2B705" font-weight="700">1.013</text>
@@ -344,7 +344,7 @@
 <text x="850.0" y="368.0" font-size="8" fill="#64748B" letter-spacing="0.6">PICO DIÁRIO</text>
 <text x="850.0" y="382.0" font-size="12.5" fill="#F2B705" font-weight="700">56</text>
 <text x="722.0" y="397.0" font-size="8" fill="#64748B" letter-spacing="0.6">MOMENTUM 30D</text>
-<text x="722.0" y="411.0" font-size="12.5" fill="#22D07E" font-weight="700">+9%</text>
+<text x="722.0" y="411.0" font-size="12.5" fill="#22D07E" font-weight="700">+11%</text>
 <text x="850.0" y="397.0" font-size="8" fill="#64748B" letter-spacing="0.6">SEGUIDORES</text>
 <text x="850.0" y="411.0" font-size="12.5" fill="#D8E1EC" font-weight="700">16</text>
 <rect x="0.0" y="428.0" width="1000.0" height="42.0" fill="#0A0F16"/>
@@ -387,35 +387,35 @@
 <text x="1167.6" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1183.6" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">OLAVONEVES</text>
 <text x="1258.6" y="453.0" font-size="11" fill="#8494A8">PYTHON</text>
-<text x="1307.2" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+0</text>
+<text x="1307.2" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+1</text>
 <text x="1337.0" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1353.0" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">CLYVO-VET_API-JAVA</text>
 <text x="1480.8" y="453.0" font-size="11" fill="#8494A8">JAVA</text>
-<text x="1516.2" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+2</text>
+<text x="1516.2" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+3</text>
 <text x="1546.0" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1562.0" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">CLYVO-VET_API-.NET</text>
 <text x="1689.8" y="453.0" font-size="11" fill="#8494A8">C#</text>
-<text x="1712.0" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+4</text>
+<text x="1712.0" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+5</text>
 <text x="1741.8" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1757.8" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">VETCLINIC-CP5-DOTNET</text>
 <text x="1898.8" y="453.0" font-size="11" fill="#8494A8">C#</text>
-<text x="1921.0" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+6</text>
+<text x="1921.0" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+7</text>
 <text x="1950.8" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1966.8" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">MERCADOEXPRESS-PAGAMENTOS</text>
 <text x="2140.8" y="453.0" font-size="11" fill="#8494A8">JAVA</text>
-<text x="2176.2" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+15</text>
+<text x="2176.2" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+16</text>
 <text x="2212.6" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="2228.6" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">MERCADOEXPRESS-SECURITY</text>
 <text x="2389.4" y="453.0" font-size="11" fill="#8494A8">JAVA</text>
-<text x="2424.8" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+18</text>
+<text x="2424.8" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+19</text>
 <text x="2461.2" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="2477.2" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">INVESTFLOW-CP4-.NET-FIAP</text>
 <text x="2644.6" y="453.0" font-size="11" fill="#8494A8">C#</text>
-<text x="2666.8" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+47</text>
+<text x="2666.8" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+48</text>
 <text x="2703.2" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="2719.2" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">MERCADOEXPRESS-MVC</text>
 <text x="2847.0" y="453.0" font-size="11" fill="#8494A8">HTML</text>
-<text x="2882.4" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+59</text>
+<text x="2882.4" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+60</text>
 <text x="2918.8" y="453.0" font-size="11" fill="#161E29">|</text>
 </g>
 <use href="#tape-runs" x="2935"/>
