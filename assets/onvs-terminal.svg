@@ -59,15 +59,15 @@
 <text x="84.0" y="24.0" font-size="13" fill="#161E29">|</text>
 <text x="98.0" y="24.0" font-size="13" fill="#D8E1EC" font-weight="700" letter-spacing="1.2">OLAVO NEVES</text>
 <text x="204.4" y="24.0" font-size="10.5" fill="#8494A8" letter-spacing="0.8">SOFTWARE ENGINEER · MERCADO DE CAPITAIS</text>
-<text x="980.0" y="24.0" font-size="10.5" fill="#64748B" text-anchor="end">06/11/2026 07:18 BRT</text>
-<rect x="737.2" y="11.0" width="102.8" height="18.0" fill="#64748B" rx="9" opacity="0.13"/>
-<circle cx="749.2" cy="20" r="3" fill="#8494A8" class="blink"/>
-<text x="758.2" y="23.5" font-size="9.5" fill="#8494A8" font-weight="700" letter-spacing="0.6">AFTER-MARKET</text>
+<text x="980.0" y="24.0" font-size="10.5" fill="#64748B" text-anchor="end">06/11/2026 16:49 BRT</text>
+<rect x="730.8" y="11.0" width="109.2" height="18.0" fill="#22D07E" rx="9" opacity="0.13"/>
+<circle cx="742.8" cy="20" r="3" fill="#22D07E" class="blink"/>
+<text x="751.8" y="23.5" font-size="9.5" fill="#22D07E" font-weight="700" letter-spacing="0.6">PREGÃO ABERTO</text>
 <text x="26.0" y="62.0" font-size="9.5" fill="#64748B" letter-spacing="1.4">ÍNDICE DE RITMO · BASE 100 = MÉDIA HISTÓRICA</text>
-<text x="26.0" y="95.0" font-size="32" fill="#22D07E" font-weight="700">107,37</text>
+<text x="26.0" y="95.0" font-size="32" fill="#22D07E" font-weight="700">109,40</text>
 <path d="M165.0 80.0 L170.4 90.2 L159.6 90.2 Z" fill="#22D07E"/>
-<text x="177.0" y="91.0" font-size="15" fill="#22D07E" font-weight="700">+133,78%</text>
-<text x="177.0" y="106.0" font-size="9.5" fill="#64748B">+61,44 pts em 4 semanas</text>
+<text x="177.0" y="91.0" font-size="15" fill="#22D07E" font-weight="700">+138,19%</text>
+<text x="177.0" y="106.0" font-size="9.5" fill="#64748B">+63,47 pts em 4 semanas</text>
 <rect x="450.0" y="76.0" width="9.0" height="13.0" fill="#22D07E" rx="1"/>
 <text x="465.0" y="86.0" font-size="9" fill="#8494A8">SEMANA DE ALTA</text>
 <rect x="450.0" y="94.0" width="9.0" height="13.0" fill="#F05A6A" rx="1"/>
@@ -247,10 +247,10 @@
 <line x1="628.8" y1="177.4" x2="628.8" y2="245.1" stroke="#22D07E" stroke-width="1" opacity="0.85"/>
 <rect x="625.0" y="180.9" width="7.6" height="64.2" fill="#22D07E" rx="0.8"/>
 <rect x="625.0" y="322.8" width="7.6" height="35.2" fill="#22D07E" rx="0.8" opacity="0.42"/>
-<line x1="640.3" y1="180.9" x2="640.3" y2="216.3" stroke="#F05A6A" stroke-width="1" opacity="0.85"/>
-<rect x="636.5" y="180.9" width="7.6" height="35.4" fill="#F05A6A" rx="0.8"/>
-<rect x="636.5" y="356.3" width="7.6" height="1.7" fill="#F05A6A" rx="0.8" opacity="0.42"/>
-<polyline points="31.7,231.5 43.2,222.0 54.7,226.7 66.2,224.9 77.7,216.1 89.1,210.3 100.6,211.0 112.1,222.3 123.6,241.1 135.1,261.5 146.6,259.9 158.0,249.1 169.5,230.1 181.0,219.4 192.5,220.0 204.0,229.2 215.4,242.9 226.9,246.4 238.4,249.5 249.9,247.8 261.4,239.2 272.9,239.5 284.3,241.3 295.8,242.0 307.3,251.0 318.8,252.5 330.3,233.9 341.7,216.8 353.2,192.5 364.7,172.3 376.2,177.3 387.7,180.8 399.1,195.5 410.6,217.1 422.1,237.0 433.6,258.9 445.1,277.4 456.6,285.3 468.0,286.2 479.5,284.2 491.0,271.5 502.5,255.8 514.0,249.2 525.4,246.3 536.9,231.2 548.4,223.6 559.9,209.6 571.4,204.9 582.9,229.1 594.3,250.8 605.8,251.5 617.3,250.3 628.8,227.2 640.3,211.4" fill="none" stroke="#4FA8F5" stroke-width="1.6" stroke-linejoin="round" opacity="0.9" class="ma"/>
+<line x1="640.3" y1="180.9" x2="640.3" y2="214.3" stroke="#F05A6A" stroke-width="1" opacity="0.85"/>
+<rect x="636.5" y="180.9" width="7.6" height="33.3" fill="#F05A6A" rx="0.8"/>
+<rect x="636.5" y="355.2" width="7.6" height="2.8" fill="#F05A6A" rx="0.8" opacity="0.42"/>
+<polyline points="31.7,231.5 43.2,222.0 54.7,226.7 66.2,224.9 77.7,216.1 89.1,210.3 100.6,211.0 112.1,222.3 123.6,241.1 135.1,261.5 146.6,259.9 158.0,249.1 169.5,230.1 181.0,219.4 192.5,220.0 204.0,229.2 215.4,242.9 226.9,246.4 238.4,249.5 249.9,247.8 261.4,239.2 272.9,239.5 284.3,241.3 295.8,242.0 307.3,251.0 318.8,252.5 330.3,233.9 341.7,216.8 353.2,192.5 364.7,172.3 376.2,177.3 387.7,180.8 399.1,195.5 410.6,217.1 422.1,237.0 433.6,258.9 445.1,277.4 456.6,285.3 468.0,286.2 479.5,284.2 491.0,271.5 502.5,255.8 514.0,249.2 525.4,246.3 536.9,231.2 548.4,223.6 559.9,209.6 571.4,204.9 582.9,229.1 594.3,250.8 605.8,251.5 617.3,250.3 628.8,227.2 640.3,210.8" fill="none" stroke="#4FA8F5" stroke-width="1.6" stroke-linejoin="round" opacity="0.9" class="ma"/>
 </g>
 <text x="31.7" y="372.0" font-size="8.5" fill="#64748B" text-anchor="middle" letter-spacing="0.5">NOV</text>
 <text x="89.1" y="372.0" font-size="8.5" fill="#64748B" text-anchor="middle" letter-spacing="0.5">DEZ</text>
@@ -265,9 +265,9 @@
 <text x="548.4" y="372.0" font-size="8.5" fill="#64748B" text-anchor="middle" letter-spacing="0.5">SET</text>
 <text x="594.3" y="372.0" font-size="8.5" fill="#64748B" text-anchor="middle" letter-spacing="0.5">OUT</text>
 <g class="fade-late">
-<line x1="26.0" y1="216.3" x2="648.0" y2="216.3" stroke="#F05A6A" stroke-width="1" stroke-dasharray="4 4" opacity="0.55"/>
-<rect x="650.0" y="207.8" width="46.0" height="17.0" fill="#F05A6A" rx="2.5"/>
-<text x="673.0" y="220.3" font-size="10" fill="#04070B" font-weight="700" text-anchor="middle">107,4</text>
+<line x1="26.0" y1="214.3" x2="648.0" y2="214.3" stroke="#F05A6A" stroke-width="1" stroke-dasharray="4 4" opacity="0.55"/>
+<rect x="650.0" y="205.8" width="46.0" height="17.0" fill="#F05A6A" rx="2.5"/>
+<text x="673.0" y="218.3" font-size="10" fill="#04070B" font-weight="700" text-anchor="middle">109,4</text>
 </g>
 <text x="26.0" y="314.0" font-size="8.5" fill="#64748B" letter-spacing="1">VOLUME SEMANAL</text>
 <rect x="26" y="124" width="90" height="234" fill="url(#sweep)" class="scan"/>
@@ -282,13 +282,13 @@
 <text x="242.0" y="414.0" font-size="13" fill="#F05A6A" font-weight="700">37,55</text>
 <line x1="340.0" y1="390.0" x2="340.0" y2="412.0" stroke="#161E29" stroke-width="1"/>
 <text x="350.0" y="399.0" font-size="8.5" fill="#64748B" letter-spacing="0.9">FECHAMENTO</text>
-<text x="350.0" y="414.0" font-size="13" fill="#D8E1EC" font-weight="700">107,37</text>
+<text x="350.0" y="414.0" font-size="13" fill="#D8E1EC" font-weight="700">109,40</text>
 <line x1="448.0" y1="390.0" x2="448.0" y2="412.0" stroke="#161E29" stroke-width="1"/>
 <text x="458.0" y="399.0" font-size="8.5" fill="#64748B" letter-spacing="0.9">VOLUME 12M</text>
-<text x="458.0" y="414.0" font-size="13" fill="#F2B705" font-weight="700">1.018</text>
+<text x="458.0" y="414.0" font-size="13" fill="#F2B705" font-weight="700">1.021</text>
 <line x1="556.0" y1="390.0" x2="556.0" y2="412.0" stroke="#161E29" stroke-width="1"/>
 <text x="566.0" y="399.0" font-size="8.5" fill="#64748B" letter-spacing="0.9">VOLATILIDADE</text>
-<text x="566.0" y="414.0" font-size="13" fill="#D8E1EC" font-weight="700">42,2%</text>
+<text x="566.0" y="414.0" font-size="13" fill="#D8E1EC" font-weight="700">42,1%</text>
 <rect x="700.0" y="40.0" width="300.0" height="388.0" fill="#0A0F16" opacity="0.55"/>
 <line x1="700.0" y1="40.0" x2="700.0" y2="428.0" stroke="#161E29" stroke-width="1"/>
 <text x="722.0" y="62.0" font-size="9.5" fill="#F2B705" font-weight="700" letter-spacing="1.4">CARTEIRA · LINGUAGENS</text>
@@ -332,11 +332,11 @@
 <text x="722.0" y="288.0" font-size="9.5" fill="#F2B705" font-weight="700" letter-spacing="1.4">INDICADORES</text>
 <text x="978.0" y="288.0" font-size="8.5" fill="#64748B" text-anchor="end">Δ = ALOCAÇÃO 5 MESES</text>
 <text x="722.0" y="310.0" font-size="8" fill="#64748B" letter-spacing="0.6">CONTRIBUIÇÕES 12M</text>
-<text x="722.0" y="324.0" font-size="12.5" fill="#D8E1EC" font-weight="700">1.018</text>
+<text x="722.0" y="324.0" font-size="12.5" fill="#D8E1EC" font-weight="700">1.021</text>
 <text x="850.0" y="310.0" font-size="8" fill="#64748B" letter-spacing="0.6">DIAS EM PREGÃO</text>
-<text x="850.0" y="324.0" font-size="12.5" fill="#D8E1EC" font-weight="700">114</text>
+<text x="850.0" y="324.0" font-size="12.5" fill="#D8E1EC" font-weight="700">115</text>
 <text x="722.0" y="339.0" font-size="8" fill="#64748B" letter-spacing="0.6">SEQUÊNCIA ATUAL</text>
-<text x="722.0" y="353.0" font-size="12.5" fill="#D8E1EC" font-weight="700">0 d</text>
+<text x="722.0" y="353.0" font-size="12.5" fill="#D8E1EC" font-weight="700">1 d</text>
 <text x="850.0" y="339.0" font-size="8" fill="#64748B" letter-spacing="0.6">RECORDE</text>
 <text x="850.0" y="353.0" font-size="12.5" fill="#D8E1EC" font-weight="700">29 d</text>
 <text x="722.0" y="368.0" font-size="8" fill="#64748B" letter-spacing="0.6">REPOSITÓRIOS</text>
@@ -344,7 +344,7 @@
 <text x="850.0" y="368.0" font-size="8" fill="#64748B" letter-spacing="0.6">PICO DIÁRIO</text>
 <text x="850.0" y="382.0" font-size="12.5" fill="#F2B705" font-weight="700">56</text>
 <text x="722.0" y="397.0" font-size="8" fill="#64748B" letter-spacing="0.6">MOMENTUM 30D</text>
-<text x="722.0" y="411.0" font-size="12.5" fill="#22D07E" font-weight="700">+70%</text>
+<text x="722.0" y="411.0" font-size="12.5" fill="#22D07E" font-weight="700">+73%</text>
 <text x="850.0" y="397.0" font-size="8" fill="#64748B" letter-spacing="0.6">SEGUIDORES</text>
 <text x="850.0" y="411.0" font-size="12.5" fill="#D8E1EC" font-weight="700">17</text>
 <rect x="0.0" y="428.0" width="1000.0" height="42.0" fill="#0A0F16"/>
