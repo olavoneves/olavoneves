@@ -59,7 +59,7 @@
 <text x="84.0" y="24.0" font-size="13" fill="#161E29">|</text>
 <text x="98.0" y="24.0" font-size="13" fill="#D8E1EC" font-weight="700" letter-spacing="1.2">OLAVO NEVES</text>
 <text x="204.4" y="24.0" font-size="10.5" fill="#8494A8" letter-spacing="0.8">SOFTWARE ENGINEER · MERCADO DE CAPITAIS</text>
-<text x="980.0" y="24.0" font-size="10.5" fill="#64748B" text-anchor="end">19/11/2026 23:48 BRT</text>
+<text x="980.0" y="24.0" font-size="10.5" fill="#64748B" text-anchor="end">20/11/2026 07:50 BRT</text>
 <rect x="737.2" y="11.0" width="102.8" height="18.0" fill="#64748B" rx="9" opacity="0.13"/>
 <circle cx="749.2" cy="20" r="3" fill="#8494A8" class="blink"/>
 <text x="758.2" y="23.5" font-size="9.5" fill="#8494A8" font-weight="700" letter-spacing="0.6">AFTER-MARKET</text>
@@ -392,31 +392,31 @@
 <text x="1337.0" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1353.0" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">RESSOA-API-JAVA</text>
 <text x="1461.0" y="453.0" font-size="11" fill="#8494A8">JAVA</text>
-<text x="1496.4" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+0</text>
+<text x="1496.4" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+1</text>
 <text x="1526.2" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1542.2" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">RESSOA-API-DOTNET</text>
 <text x="1663.4" y="453.0" font-size="11" fill="#8494A8">C#</text>
-<text x="1685.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+3</text>
+<text x="1685.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+4</text>
 <text x="1715.4" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1731.4" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">CLYVO-VET_API-JAVA</text>
 <text x="1859.2" y="453.0" font-size="11" fill="#8494A8">JAVA</text>
-<text x="1894.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+14</text>
+<text x="1894.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+15</text>
 <text x="1931.0" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="1947.0" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">CLYVO-VET_API-.NET</text>
 <text x="2074.8" y="453.0" font-size="11" fill="#8494A8">C#</text>
-<text x="2097.0" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+21</text>
+<text x="2097.0" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+22</text>
 <text x="2133.4" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="2149.4" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">VETCLINIC-CP5-DOTNET</text>
 <text x="2290.4" y="453.0" font-size="11" fill="#8494A8">C#</text>
-<text x="2312.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+23</text>
+<text x="2312.6" y="453.0" font-size="11" fill="#22D07E" font-weight="700">D+24</text>
 <text x="2349.0" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="2365.0" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">MERCADOEXPRESS-PAGAMENTOS</text>
 <text x="2539.0" y="453.0" font-size="11" fill="#8494A8">JAVA</text>
-<text x="2574.4" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+32</text>
+<text x="2574.4" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+33</text>
 <text x="2610.8" y="453.0" font-size="11" fill="#161E29">|</text>
 <text x="2626.8" y="453.0" font-size="11" fill="#D8E1EC" font-weight="700">MERCADOEXPRESS-SECURITY</text>
 <text x="2787.6" y="453.0" font-size="11" fill="#8494A8">JAVA</text>
-<text x="2823.0" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+35</text>
+<text x="2823.0" y="453.0" font-size="11" fill="#8494A8" font-weight="700">D+36</text>
 <text x="2859.4" y="453.0" font-size="11" fill="#161E29">|</text>
 </g>
 <use href="#tape-runs" x="2875"/>
